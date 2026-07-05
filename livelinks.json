@@ -1,17 +1,11 @@
 [
-
-
- 
-   {
+  {
     "quality": "HD",
     "device": "Android/IOS/PC",
     "language": "ENGLISH",
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://mxbluejays.s3.us-east-1.amazonaws.com/bbc_1080p30.m3u8"
   },
-  
-
-
   {
     "quality": "HD",
     "device": "Android/IOS/PC",
@@ -19,27 +13,13 @@
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://st.ekuzadz.website/mekan2_720/index.m3u8"
   },
-
- 
-
-
- 
-
- 
- {
+  {
     "quality": "HD",
     "device": "Android/PC",
     "language": "ENGLISH",
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://lordatomic.github.io/uefa/engl.html"
   },
-
-
- 
- 
-
-
-  
   {
     "quality": "HD",
     "device": "Android/IOS",
@@ -47,14 +27,11 @@
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://sayanchannelcdn03.pages.dev/football/goltv"
   },
-
-   {
+  {
     "quality": "HD",
     "device": "Android/IOS",
     "language": "MALAYALAM",
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://lordatomic.github.io/uefa/b4?b4x=//ok.ru/videoembed/17565078199879?nochat=1"
-  },
-
- 
+  }
 ]
