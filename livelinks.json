@@ -43,10 +43,10 @@
   },
   {
     "quality": "HD",
-    "device": "Android/IOS/PC",
-    "language": "GERMAN",
+    "device": "Android/PC",
+    "language": "ENGLISH BACKUP",
     "region": "WORLDWIDE",
-    "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/german-sports.m3u8"
+    "url": "https://news.taazaboom.com/p/live.html?live=https://krxplor.github.io/mpd/mpd4.html"
   },
   {
     "quality": "HD",
