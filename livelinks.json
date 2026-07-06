@@ -36,10 +36,10 @@
   },
   {
     "quality": "HD",
-    "device": "Android/IOS/PC",
-    "language": "FRENCH",
+    "device": "Android/PC",
+    "language": "ENGLISH",
     "region": "WORLDWIDE",
-    "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/french-sports.m3u8"
+    "url": "https://news.taazaboom.com/p/live.html?live=https://krxplor.github.io/mpd/mpd2.html"
   },
   {
     "quality": "HD",
