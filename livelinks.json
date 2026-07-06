@@ -33,7 +33,7 @@
     "language": "MALAYALAM",
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://lordatomic.github.io/uefa/b4?b4x=//ok.ru/videoembed/17565388185159?nochat=1"
-  }
+  },
   {
     "quality": "HD",
     "device": "Android/IOS/PC",
@@ -41,4 +41,18 @@
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/french-sports.m3u8"
   },
+  {
+    "quality": "HD",
+    "device": "Android/IOS/PC",
+    "language": "GERMAN",
+    "region": "WORLDWIDE",
+    "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/german-sports.m3u8"
+  },
+  {
+    "quality": "HD",
+    "device": "Android/IOS/PC",
+    "language": "HINDI",
+    "region": "WORLDWIDE",
+    "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/hindi-sports.m3u8"
+  }
 ]
