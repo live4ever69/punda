@@ -34,4 +34,11 @@
     "region": "WORLDWIDE",
     "url": "https://news.taazaboom.com/p/live.html?live=https://lordatomic.github.io/uefa/b4?b4x=//ok.ru/videoembed/17565388185159?nochat=1"
   }
+  {
+    "quality": "HD",
+    "device": "Android/IOS/PC",
+    "language": "FRENCH",
+    "region": "WORLDWIDE",
+    "url": "https://news.taazaboom.com/p/live.html?live=https://example.com/stream/french-sports.m3u8"
+  },
 ]
