@@ -19,7 +19,7 @@
     "device": "Android/IOS/PC",
     "language": "ARABIC",
     "region": "WORLDWIDE",
-    "url": "https://news.taazaboom.com/p/live.html?live=https://3.simokora.com/my-hls/4v561xgucp9/source/index.m3u8"
+    "url": "https://news.taazaboom.com/p/live.html?live=https://s3.us-east-2.amazonaws.com/caa1000/live/stream/720p/tracks-v1a1/mono.m3u8"
   },
   {
     "quality": "HD",
